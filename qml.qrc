@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>1622454358seamless-pattern-svg-background.svg</file>
+        <file>Button.qml</file>
+        <file>InputBlock.qml</file>
+    </qresource>
+</RCC>
